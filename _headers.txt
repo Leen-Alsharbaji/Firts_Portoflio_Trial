@@ -1,0 +1,2 @@
+/build/*.gz
+  Content-Encoding: gzip
